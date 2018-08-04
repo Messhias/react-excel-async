@@ -1,5 +1,5 @@
 # Assignment for CarPal Front-End Developer Candidates
-## Overview
+### Overview
 An application which allow user to upload the excel file, review and save into browser local
 storage.
 And user can be able to retrieve the data which they have saved into browser local storage.
@@ -9,7 +9,7 @@ When the user trigger sync, connect to the backend API to sync the data.
 For the start, if you can send the list of the name of excel files which user stored in local storage
 as a Json to backend API end point is enough.
 
-### Requirements
+#### Requirements
 - To build a javascript application by using any of javascript framework such as Angular, React
 or Vue.js. There will be a bonus if you use React or Angular 4.
 - To build the reusable components (Must)
