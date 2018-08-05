@@ -4,8 +4,11 @@
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
+    "react-detect-offline": "^2.1.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "read-excel-file": "^2.0.2",
+    "string_decoder": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
