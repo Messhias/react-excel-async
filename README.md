@@ -24,11 +24,11 @@ indexDb, Web SQL, pouchDb, etc.
 - To implement the reusable component which check and indicate the network online/offline
 status periodically
 
+# Screenshots
+![Main screenshot](screen1.png "Main screenshot")
+![Main screenshot](screen2.png "Main screenshot")
+![Main screenshot](screen3.png "Main screenshot")
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
 
@@ -164,6 +164,14 @@ my-app/
     index.html
     favicon.ico
   src/
+    Components/
+      Form/
+        ExcelUpload.js
+      Layout/
+        Header.js
+        TableRow.js
+    Main/
+      MainApp.js
     App.css
     App.js
     App.test.js
